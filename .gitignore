@@ -1,4 +1,5 @@
 /node_modules/
 /AOE_WEBSITE/
+/public/build/
 
 .DS_Store
