@@ -1,0 +1,41 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background: #181818 !important;
+}
+
+html {
+  overflow-y: scroll;
+}
+
+a:not(.nav-link) {
+  color: #86bf41 !important;
+}
+
+a:not(.nav-link):active,
+a:hover:not(.nav-link),
+a:visited:not(.nav-link) {
+  text-decoration: none;
+  color: #71a137 !important;
+  border: none;
+}
+
+.container {
+  padding-bottom: 120px;
+  background: #181818;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+* {
+  max-width: 100%;
+}
