@@ -4,7 +4,7 @@
       <img src="/images/logo.webp" style="max-height: 450px" alt="" />
     </div>
     <div class="col-12 col-md-6 my-auto">
-      <h1 class="h4 text-center mb-4">Welcome to Age of Elysiant</h1>
+      <h1 class="h4 text-center mb-4">Welcome to Age of Elysian</h1>
       <p class="text-justify">
         Age of Elysian is a server that has been in business for nearly half a
         decade, and we've amassed quite a community during that time. Most
