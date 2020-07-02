@@ -75,7 +75,7 @@
         almost every task there is. We also have a couple of Slimefun addons,
         such as:
       </p>
-      <ul>
+      <ul style="padding-left: 1em;">
         <li>
           <strong>Exotic Garden</strong>
           which adds tons of new food types and ways of growing precious ores
