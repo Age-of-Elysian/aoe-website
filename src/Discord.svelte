@@ -1,8 +1,8 @@
 <div class="container text-light">
   <div class="row w-100 ml-0 mr-0">
-    <div class="col-12 col-lg-6 mt-5">
-      <h1 class="text-center">Our Discord</h1>
-      <p class="text-justify mt-3">
+    <div class="col-12 col-lg-6 mt-4">
+      <h2 class="text-center">Our Discord</h2>
+      <p class="text-justify mt-4">
         We have a highly social, active and friendly community on our Discord
         server. Even if you're not really into Minecraft or are just taking a
         break, feel free to join and spend some time with us! All your
@@ -19,16 +19,16 @@
         </a>
       </div>
     </div>
-    <div class="col-12 col-lg-6 mt-5">
-      <h3 class="text-center">How to link your Minecraft account</h3>
-      <ol class="pl-1">
+    <div class="col-12 col-lg-6 mt-4">
+      <h2 class="text-center mb-4">How to link your Minecraft account</h2>
+      <ol class="pl-1 mt-2">
         <li>
           Join the server, register, then use the command "/discord" to receive
           an invitation link and join our discord if you haven't already.
         </li>
         <li class="mt-1">
           Add a reaction to the message in the #verify channel to confirm that
-          you are not a robot.
+          you are not a robot, if this is your first time here.
         </li>
         <li class="mt-1">
           Proceed to use the command "/discord link" ingame. You will receive a
