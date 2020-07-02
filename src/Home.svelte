@@ -1,4 +1,4 @@
-<div class="container mt-5 text-light">
+<div class="container text-light">
   <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-md-6 mt-5">
       <img src="/images/logo.webp" style="max-height: 450px" alt="" />
