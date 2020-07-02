@@ -1,6 +1,6 @@
-<div class="container mt-5 text-light">
-  <div class="row w-100">
-    <div class="col-12 col-lg-6">
+<div class="container text-light">
+  <div class="row w-100 ml-0 mr-0">
+    <div class="col-12 col-lg-6 mt-5">
       <h1 class="text-center">Our Discord</h1>
       <p class="text-justify mt-3">
         We have a highly social, active and friendly community on our Discord
@@ -19,34 +19,32 @@
         </a>
       </div>
     </div>
-    <div class="col-12 col-lg-6">
-      <h3 class="text-center">
-        How to link your Minecraft account to the Discord server
-      </h3>
-      <ol class="text-justify">
+    <div class="col-12 col-lg-6 mt-5">
+      <h3 class="text-center">How to link your Minecraft account</h3>
+      <ol class="pl-1">
         <li>
           Join the server, register, then use the command "/discord" to receive
           an invitation link and join our discord if you haven't already.
         </li>
-        <li>
+        <li class="mt-1">
           Add a reaction to the message in the #verify channel to confirm that
           you are not a robot.
         </li>
-        <li>
+        <li class="mt-1">
           Proceed to use the command "/discord link" ingame. You will receive a
           link code, something like this: "1234".
         </li>
-        <li>
+        <li class="mt-1">
           Send the link code in a DM (Direct Message) to TayAI, find the bot in
           the discord member list located on your right side.
         </li>
-        <li>You're all set!</li>
+        <li class="mt-1">You're all set!</li>
       </ol>
     </div>
   </div>
   <img
     class="mt-4 mx-auto d-block"
-    height="300"
+    style="max-height: 300px"
     src="/images/discord/discord_crowd.webp"
     alt="A crowd of players" />
 </div>

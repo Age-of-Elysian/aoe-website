@@ -1,9 +1,9 @@
 <div class="container mt-5 text-light">
-  <div class="row w-100 mt-5">
-    <div class="col-12 col-md-6">
+  <div class="row w-100 ml-0 mr-0">
+    <div class="col-12 col-md-6 mt-5">
       <img src="/images/logo.webp" style="max-height: 450px" alt="" />
     </div>
-    <div class="col-12 col-md-6 my-auto">
+    <div class="col-12 col-md-6 my-md-auto mt-5">
       <h1 class="h4 text-center mb-4">Welcome to Age of Elysian</h1>
       <p class="text-justify">
         Age of Elysian is a server that has been in business for nearly half a
@@ -30,7 +30,7 @@
 
   <hr class="bg-light d-md-none" />
 
-  <div class="row w-100">
+  <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-md-6 mt-5">
       <h1 class="h4 text-center mb-4">What we're offering</h1>
       <ul class="text-justify ml-0 pl-0">
@@ -93,7 +93,7 @@
     </div>
   </div>
 
-  <div class="row w-100">
+  <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-lg-6 mt-5">
       <h1 class="h4 text-center mb-4">Towny</h1>
       <p class="text-justify">
