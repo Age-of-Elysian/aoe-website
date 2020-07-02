@@ -5,9 +5,11 @@
       <p class="text-justify mt-4">
         Slimefun can be confusing at times. All those dusts and ingots that look
         the same... Crafting even the medium-tier items can get very difficult
-        and time cosuming. That's where our special, carefully made resource
-        pack comes into play. With custom textures for every single dust and
-        ingot there is, crafting will never be easier! It is free for download.
+        and time cosuming, and may ruin your playing experience. That's where
+        our special, carefully made resource pack comes into play. With custom
+        textures for every single dust and ingot there is, crafting will never
+        be easier! The texture pack is being actively updated and worked on by
+        our staff. It is free for download, so go ahead and check it out.
       </p>
       <!-- <div class="alert alert-danger text-center" role="alert">
         The resource pack requires Optifine to work!

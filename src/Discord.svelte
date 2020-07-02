@@ -45,6 +45,6 @@
   <img
     class="mt-4 mx-auto d-block"
     style="max-height: 300px"
-    src="/images/discord/discord_crowd.webp"
+    src="/images/discord/discord_crowd.png"
     alt="A crowd of players" />
 </div>

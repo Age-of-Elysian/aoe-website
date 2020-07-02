@@ -6,8 +6,8 @@
     <div class="col-12 col-md-6 my-md-auto mt-5">
       <h1 class="h4 text-center mb-4">Welcome to Age of Elysian</h1>
       <p class="text-justify">
-        Age of Elysian is a server that has been in business for nearly half a
-        decade, and we've amassed quite a community during that time. Most
+        Age of Elysian is a server that has been in business for more than half
+        a decade, and we've amassed quite a community during that time. Most
         player-suggested features have found their way to the server, and
         nowadays we are likely to be the most feature-packed cracked
         Slimefun-Towny server, with an up-to-date slimefun.
@@ -22,8 +22,8 @@
         cracked servers, however, we host an experienced team of staff well
         aware of the risks of running an offline-mode server, and are more than
         capable with dealing with anything the script-kiddies have thrown at us
-        so far. There is almost always somebody online to help you with any
-        issues and answer all your questions.
+        so far. There is always somebody online to help you with any issues and
+        answer all your questions.
       </p>
     </div>
   </div>
