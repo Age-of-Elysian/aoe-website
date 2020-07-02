@@ -25,6 +25,11 @@
         so far. There is always somebody online to help you with any issues and
         answer all your questions.
       </p>
+      <p class="text-justify">
+        We are currently in a state of an Open Beta, so some bugs may be
+        present. Don't worry though, our staff team is working hard to iron out
+        any potential issues, so your playing experience isn't impaired.
+      </p>
     </div>
   </div>
 
