@@ -9,9 +9,9 @@
         pack comes into play. With custom textures for every single dust and
         ingot there is, crafting will never be easier! It is free for download.
       </p>
-      <div class="alert alert-danger text-center" role="alert">
+      <!-- <div class="alert alert-danger text-center" role="alert">
         The resource pack requires Optifine to work!
-      </div>
+      </div> -->
     </div>
     <div class="col-12 col-lg-6 mt-4">
       <h2 class="text-center">How to install</h2>
@@ -41,9 +41,9 @@
           has opened.
         </li>
         <li>
-          That's it! Close the folder, click
+          That's it! Close the folder and click
           <strong>Done</strong>
-          in Minecraft, and have fun!
+          in Minecraft.
         </li>
       </ol>
     </div>

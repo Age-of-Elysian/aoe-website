@@ -16,7 +16,7 @@
   <div class="row w-100 mx-auto">
     <Server
       link="https://minecraftlist.org/vote/4128"
-      image="/images/vote/minecraftlist.webp" />
+      image="/images/vote/mclist.webp" />
     <Server
       link="https://www.planetminecraft.com/server/age-of-elysian/vote/"
       image="/images/vote/planet_minecraft.webp" />
@@ -37,7 +37,7 @@
       image="/images/vote/minecraft_multiplayer.webp" />
     <Server
       link="https://topminecraftservers.org/server/3457"
-      image="/images/vote/topmc.webp" />
+      image="/images/vote/tms.webp" />
 
   </div>
 </div>
