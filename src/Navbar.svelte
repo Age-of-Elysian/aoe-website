@@ -35,7 +35,10 @@
         <a class="nav-link" href="/#/vote">Vote</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://www.ageofelysianmc.com/shop">
+        <a
+          class="nav-link"
+          href="https://www.ageofelysianmc.com/shop"
+          target="_blank">
           Donate
         </a>
       </li>
