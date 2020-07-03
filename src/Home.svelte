@@ -3,18 +3,20 @@
     <div class="col-12 col-md-6 mt-5">
       <img src="/images/logo.webp" style="max-height: 450px" alt="" />
     </div>
-    <div class="col-12 col-md-6 my-md-auto mt-5">
+    <div class="col-12 col-md-6 my-md-auto mt-">
       <h1 class="h4 text-center mb-4">Welcome to Age of Elysian</h1>
       <p class="text-justify">
         Age of Elysian is a server that has been in business for more than half
         a decade, and we've amassed quite a community during that time. Most
         player-suggested features have found their way to the server, and
         nowadays we are likely to be the most feature-packed cracked
-        Slimefun-Towny server, with an up-to-date slimefun.
+        Slimefun-Towny server with rpg elements, with an up-to-date slimefun.
       </p>
       <p class="text-justify">
-        For the record, the server is entirely un-modded, you don't need any
-        special client for it, although clients such as optifine are allowed and
+        We are currently in a state of an Open Beta, so some bugs may be
+        present. Don't worry though, our staff team is working hard to iron out
+        any potential issues, so your playing experience isn't impaired. The
+        server is un-modded, but client modifications like optifine are
         encouraged.
       </p>
       <p class="text-justify">
@@ -25,18 +27,13 @@
         so far. There is always somebody online to help you with any issues and
         answer all your questions.
       </p>
-      <p class="text-justify">
-        We are currently in a state of an Open Beta, so some bugs may be
-        present. Don't worry though, our staff team is working hard to iron out
-        any potential issues, so your playing experience isn't impaired.
-      </p>
     </div>
   </div>
 
   <hr class="bg-light d-md-none" />
 
   <div class="row w-100 ml-0 mr-0">
-    <div class="col-12 col-md-6 mt-5">
+    <div class="col-12 col-md-6 mt-4">
       <h1 class="h4 text-center mb-4">What we're offering</h1>
       <ul class="text-justify ml-0 pl-0">
         <li>
@@ -70,7 +67,7 @@
         </p>
       </ul>
     </div>
-    <div class="col-12 col-md-6 mt-5">
+    <div class="col-12 col-md-6 mt-4">
       <h1 class="h4 text-center mb-4">Slimefun</h1>
       <p class="text-justify">
         Slimefun is a plugin which aims to basically turn your Bukkit Server
