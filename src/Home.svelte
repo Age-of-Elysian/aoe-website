@@ -95,6 +95,8 @@
     </div>
   </div>
 
+  <hr class="bg-light d-md-none" />
+
   <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-lg-6 mt-5">
       <h1 class="h4 text-center mb-4">Towny</h1>
