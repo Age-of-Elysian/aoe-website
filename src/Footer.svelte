@@ -1,3 +1,7 @@
+<script>
+  import Clipboard from "svelte-clipboard";
+</script>
+
 <style>
   footer {
     position: fixed;
@@ -13,11 +17,20 @@
 
 <footer>
   Join us at
-  <a
-    href="/fixthislater"
-    data-toggle="tooltip"
-    data-placement="top"
-    title="Copy to clipboard">
-    play.ageofelysian.com
-  </a>
+  <Clipboard
+    text="play.ageofelysian.com"
+    let:copy
+    on:copy={() => {
+      console.log('Has Copied');
+    }}>
+    <a
+      href="/#"
+      on:click|preventDefault={copy}
+      data-toggle="tooltip"
+      data-placement="top"
+      title="Copy to clipboard">
+      play.ageofelysian.com
+    </a>
+  </Clipboard>
+
 </footer>
