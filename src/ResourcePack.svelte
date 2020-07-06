@@ -50,10 +50,15 @@
       </ol>
     </div>
   </div>
-  <img
-    class="mt-4 mx-auto d-block"
-    style="max-height: 300px"
-    src="/images/resourcepack/png/resourcepack_example.png"
-    alt="Resource pack example" />
+  <picture>
+    <source
+      srcset="/images/resourcepack/webp/resourcepack_example.webp"
+      type="image/webp" />
+    <img
+      class="mt-4 mx-auto d-block"
+      style="max-height: 300px"
+      src="/images/resourcepack/png/resourcepack_example.png"
+      alt="Resource pack example" />
+  </picture>
   <h6 class="text-center">Each ingot and dust has a distinct texture.</h6>
 </div>
