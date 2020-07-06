@@ -1,7 +1,7 @@
 <div class="container text-light">
   <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-md-6 mt-5">
-      <img src="/images/logo.webp" style="max-height: 450px" alt="" />
+      <img src="/images/png/logo.png" style="max-height: 450px" alt="" />
     </div>
     <div class="col-12 col-md-6 my-md-auto mt-">
       <h1 class="h4 text-center mb-4">Welcome to Age of Elysian</h1>
@@ -138,7 +138,7 @@
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img
-              src="/images/screenshots/screenshot_uprising.webp"
+              src="/images/screenshots/png/screenshot_uprising.png"
               class="d-block w-100"
               alt="..." />
             <div class="carousel-caption d-none d-md-block">
@@ -147,7 +147,7 @@
           </div>
           <div class="carousel-item">
             <img
-              src="/images/screenshots/screenshot_syndria.webp"
+              src="/images/screenshots/png/screenshot_syndria.png"
               class="d-block w-100"
               alt="..." />
             <div class="carousel-caption d-none d-md-block">
@@ -156,7 +156,7 @@
           </div>
           <div class="carousel-item">
             <img
-              src="/images/screenshots/screenshot_choom.webp"
+              src="/images/screenshots/png/screenshot_choom.png"
               class="d-block w-100"
               alt="..." />
             <div class="carousel-caption d-none d-md-block">

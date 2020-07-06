@@ -13,7 +13,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark">
   <a class="navbar-brand" href="/#/">
-    <img src="/images/logo.webp" alt="" height="49px" style="width: 49px" />
+    <img src="/images/png/logo.png" alt="" height="49px" style="width: 49px" />
   </a>
   <button
     class="navbar-toggler"
@@ -60,14 +60,14 @@
     <div class="carousel-item active">
       <img
         class="d-block w-100"
-        src="/images/carousel/slide_1.webp"
+        src="/images/carousel/png/slide_1.png"
         alt=""
         draggable="false" />
     </div>
     <div class="carousel-item">
       <img
         class="d-block w-100"
-        src="/images/carousel/slide_2.webp"
+        src="/images/carousel/png/slide_2.png"
         alt=""
         draggable="false" />
     </div>
