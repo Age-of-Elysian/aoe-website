@@ -1,6 +1,7 @@
 <script>
   export let link;
-  export let image;
+  export let imagepng;
+  export let imagewebp;
 </script>
 
 <style>
@@ -39,7 +40,11 @@
 <div class="col-12 col-sm-6 col-md-4 col-lg-3 p-2">
   <div class="vote-server">
     <a href={link} target="_blank">
-      <img src={image} class="mx-auto" alt="Vote Server" />
+      <picture>
+        <source class="mx-auto" srcset={imagewebp} type="image/webp" />
+        <img class="mx-auto" src={imagepng} alt="Vote Server" />
+      </picture>
     </a>
+
   </div>
 </div>
