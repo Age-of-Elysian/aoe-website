@@ -20,7 +20,7 @@
     display: table-cell;
   }
 
-  .vote-server > a > img {
+  .vote-server > a > picture > img {
     display: block;
     height: auto;
 
@@ -31,7 +31,7 @@
     filter: grayscale(100%);
   }
 
-  .vote-server > a > img:hover {
+  .vote-server > a > picture > img:hover {
     transition: 0.25s;
     filter: none;
   }
@@ -40,9 +40,9 @@
 <div class="col-12 col-sm-6 col-md-4 col-lg-3 p-2">
   <div class="vote-server">
     <a href={link} target="_blank">
-      <picture>
+      <picture class="mx-auto">
         <source srcset={imagewebp} type="image/webp" />
-        <img class="mx-auto" src={imagepng} alt="Vote Server" />
+        <img src={imagepng} alt="Vote Server" />
       </picture>
     </a>
 
