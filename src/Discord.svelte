@@ -42,9 +42,14 @@
       </ol>
     </div>
   </div>
-  <img
-    class="mt-4 mx-auto d-block"
-    style="max-height: 300px"
-    src="/images/discord/png/discord_crowd.png"
-    alt="A crowd of players" />
+  <picture>
+    <source
+      srcset="/images/discord/webp/discord_crowd.webp"
+      type="image/webp" />
+    <img
+      class="mt-4 mx-auto d-block"
+      style="max-height: 300px"
+      src="/images/discord/png/discord_crowd.png"
+      alt="A crowd of players" />
+  </picture>
 </div>
