@@ -41,7 +41,7 @@
   <div class="vote-server">
     <a href={link} target="_blank">
       <picture>
-        <source class="mx-auto" srcset={imagewebp} type="image/webp" />
+        <source srcset={imagewebp} type="image/webp" />
         <img class="mx-auto" src={imagepng} alt="Vote Server" />
       </picture>
     </a>
