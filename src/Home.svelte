@@ -1,7 +1,10 @@
 <div class="container text-light">
   <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-md-6 mt-5">
-      <img src="/images/png/logo.png" style="max-height: 450px" alt="" />
+      <picture>
+        <source srcset="/images/webp/logo.webp" type="image/webp" />
+        <img style="max-height: 450px" src="/images/png/logo.png" alt="Logo" />
+      </picture>
     </div>
     <div class="col-12 col-md-6 my-md-auto mt-">
       <h1 class="h4 text-center mb-4">Welcome to Age of Elysian</h1>
@@ -137,28 +140,44 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img
-              src="/images/screenshots/png/screenshot_uprising.png"
-              class="d-block w-100"
-              alt="..." />
+            <picture>
+              <source
+                srcset="/images/screenshots/webp/screenshot_uprising.webp"
+                type="image/webp" />
+              <img
+                class="d-block w-100"
+                src="/images/screenshots/png/screenshot_uprising.png"
+                alt="Uprising" />
+            </picture>
+
             <div class="carousel-caption d-none d-md-block">
               <p>Uprising</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img
-              src="/images/screenshots/png/screenshot_syndria.png"
-              class="d-block w-100"
-              alt="..." />
+            <picture>
+              <source
+                srcset="/images/screenshots/webp/screenshot_syndria.webp"
+                type="image/webp" />
+              <img
+                class="d-block w-100"
+                src="/images/screenshots/png/screenshot_syndria.png"
+                alt="Syndria" />
+            </picture>
             <div class="carousel-caption d-none d-md-block">
               <p>Syndria</p>
             </div>
           </div>
           <div class="carousel-item">
-            <img
-              src="/images/screenshots/png/screenshot_choom.png"
-              class="d-block w-100"
-              alt="..." />
+            <picture>
+              <source
+                srcset="/images/screenshots/webp/screenshot_choom.webp"
+                type="image/webp" />
+              <img
+                class="d-block w-100"
+                src="/images/screenshots/png/screenshot_choom.png"
+                alt="Choom" />
+            </picture>
             <div class="carousel-caption d-none d-md-block">
               <p>Choom</p>
             </div>
