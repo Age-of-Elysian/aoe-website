@@ -40,9 +40,9 @@
 <div class="col-12 col-sm-6 col-md-4 col-lg-3 p-2">
   <div class="vote-server">
     <a href={link} target="_blank">
-      <picture class="mx-auto">
+      <picture class="mx-auto justify-content-center">
         <source srcset={imagewebp} type="image/webp" />
-        <img src={imagepng} alt="Vote Server" />
+        <img src={imagepng} alt="Vote Server" class="mx-auto" />
       </picture>
     </a>
 
