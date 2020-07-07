@@ -1,7 +1,8 @@
 <script>
   export let name;
   export let rank;
-  export let image;
+  export let imagepng;
+  export let imagewebp;
 </script>
 
 <style>
@@ -12,7 +13,7 @@
     border-radius: 3px;
     display: inline-block;
   }
-  .contributor > img {
+  .contributor > picture > img {
     display: block;
     height: auto;
     max-width: 100%;
@@ -22,9 +23,14 @@
 
 <div class="container p-4">
   <div class="contributor text-center">
-    <img src={image} alt="{name}_{rank}" />
-    {name}
-    <br />
-    {rank}
+
+    <picture class="mx-auto justify-content-center">
+      <source srcset={imagewebp} type="image/webp" />
+      <img src={imagepng} alt="{name}_{rank}" class="mx-auto" />
+      {name}
+      <br />
+      {rank}
+    </picture>
+
   </div>
 </div>

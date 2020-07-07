@@ -7,22 +7,25 @@
     <h2 class="m-4">Department Heads</h2>
   </div>
 
-  <div class="row justify-content-center">
+  <div class="row col justify-content-center">
     <div>
       <Contributor
-        image="/images/contributors/png/qalle.png"
+        imagepng="/images/contributors/png/qalle.png"
+        imagewebp="/images/contributors/webp/qalle.webp"
         name="Qalle"
         rank="Tec-Admin" />
     </div>
     <div>
       <Contributor
-        image="/images/contributors/png/hunk.png"
+        imagepng="/images/contributors/png/hunk.png"
+        imagewebp="/images/contributors/webp/hunk.webp"
         name="HunkyHenry"
         rank="Head-Builder" />
     </div>
     <div>
       <Contributor
-        image="/images/contributors/png/gonzo.png"
+        imagepng="/images/contributors/png/gonzo.png"
+        imagewebp="/images/contributors/webp/gonzo.webp"
         name="DrGonzo"
         rank="Head-Admin" />
     </div>
@@ -34,13 +37,15 @@
   <div class="row justify-content-center">
     <div>
       <Contributor
-        image="/images/contributors/webp/dp.webp"
+        imagepng="/images/contributors/png/dp.png"
+        imagewebp="/images/contributors/webp/dp.webp"
         name="DeathlyPandas"
         rank="ExtraGear Dev" />
     </div>
     <div>
       <Contributor
-        image="/images/contributors/webp/alex.webp"
+        imagepng="/images/contributors/png/alex.png"
+        imagewebp="/images/contributors/webp/alex.webp"
         name="AlexLander123"
         rank="Plugin Dev" />
     </div>
@@ -53,21 +58,31 @@
   <div class="row justify-content-center">
     <div>
       <Contributor
-        image="/images/contributors/webp/NoPower.webp"
+        imagepng="/images/contributors/png/nopower.png"
+        imagewebp="/images/contributors/webp/nopower.webp"
         name="NoPower"
         rank="Towny Admin" />
     </div>
     <div>
       <Contributor
-        image="/images/contributors/webp/zach.webp"
+        imagepng="/images/contributors/png/zach.png"
+        imagewebp="/images/contributors/webp/zach.webp"
         name="Zacharymj"
         rank="Towny Admin" />
     </div>
     <div>
       <Contributor
-        image="/images/contributors/webp/steven.webp"
+        imagepng="/images/contributors/png/steven.png"
+        imagewebp="/images/contributors/webp/steven.webp"
         name="StevenD85"
         rank="Web Admin" />
+    </div>
+    <div>
+      <Contributor
+        imagepng="/images/contributors/png/nard.png"
+        imagewebp="/images/contributors/webp/nard.webp"
+        name="NardGD"
+        rank="Towny Admin" />
     </div>
   </div>
 
@@ -76,15 +91,17 @@
   </div>
 
   <div class="row justify-content-center">
-    <div id="longname">
+    <div>
       <Contributor
-        image="/images/contributors/webp/nagatake.webp"
+        imagepng="/images/contributors/png/nagatake.png"
+        imagewebp="/images/contributors/webp/nagatake.webp"
         name="Nagatake"
         rank="Towny Mod" />
     </div>
     <div>
       <Contributor
-        image="/images/contributors/webp/ajan.webp"
+        imagepng="/images/contributors/png/ajan.png"
+        imagewebp="/images/contributors/webp/ajan.webp"
         name="Ajan_12"
         rank="Discord Mod" />
     </div>
@@ -95,25 +112,29 @@
     <div class="row justify-content-center">
       <div>
         <Contributor
-          image="/images/contributors/webp/kins.webp"
+          imagepng="/images/contributors/png/kins.png"
+          imagewebp="/images/contributors/webp/kins.webp"
           name="Kinsplai"
           rank="" />
       </div>
       <div>
         <Contributor
-          image="/images/contributors/webp/alph.webp"
+          imagepng="/images/contributors/png/alph.png"
+          imagewebp="/images/contributors/webp/alph.webp"
           name="Alphacca"
           rank="" />
       </div>
       <div>
         <Contributor
-          image="/images/contributors/webp/xilos.webp"
+          imagepng="/images/contributors/png/xilos.png"
+          imagewebp="/images/contributors/webp/xilos.webp"
           name="XilosYT"
           rank="" />
       </div>
       <div>
         <Contributor
-          image="/images/contributors/webp/tavangar.webp"
+          imagepng="/images/contributors/png/tavangar.png"
+          imagewebp="/images/contributors/webp/tavangar.webp"
           name="Tavangar"
           rank="" />
       </div>
