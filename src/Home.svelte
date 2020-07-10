@@ -94,7 +94,8 @@
       crafting much easier and generally improves its visuals. For more
       information about how to download and install the resource pack, check out
       the
-      <a href="/#/resource-pack">resource pack page</a>
+      <a href="/#/resource-pack">Resource Pack</a>
+      page
     </div>
   </div>
 
@@ -106,12 +107,12 @@
       <p class="text-justify">
         Towny is a plugin that introduces a way of creating towns with grid-like
         land protection and an intricate permission system. Each town has a
-        mayor, while a nation has a king. They both have their own assistants to
-        help run their respective people. Players can also purchase land from
-        the town, As well as pay an optional daily tax set by the mayor. The
-        player can allow his friends from out of town to build on his land when
-        even his very own town's people can't build if he so wishes, anything is
-        possible.
+        mayor, and each nation has a king. They both have their own assistants,
+        builders and other town staff to help manage their respective people.
+        Players can also purchase land from the town, As well as pay an optional
+        daily tax set by the mayor. The player can allow his friends from out of
+        town to build on his land when even his very own town's residents can't
+        build if he so wishes, anything is possible.
       </p>
       <p class="text-justify">
         The basis of protecting and claiming land is based on chunks. The whole
