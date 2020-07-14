@@ -1,6 +1,16 @@
-<!-- <div class="embed-responsive embed-responsive-21by9 mb-4">
+<!-- THIS FILE IS UNUSED, BUT HAS GOOD CODE IN IT. USE LATER WHEN POSSIBLE
+ DYNMAP IFRAME PAGE CODE
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <div class="embed-responsive embed-responsive-21by9 mb-4">
   <iframe src="https://bit.ly/2OmAaWr" title="Dynmap" />
-</div> -->
+</div> 
 
 <div class="container text-light ">
   <div class="text-center m-5">
@@ -32,3 +42,4 @@
     due to it not supporting https locally
   </p>
 </div>
+-->

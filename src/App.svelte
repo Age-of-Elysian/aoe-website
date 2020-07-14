@@ -7,15 +7,13 @@
   import Discord from "./Discord.svelte";
   import About from "./About.svelte";
   import ResourcePack from "./ResourcePack.svelte";
-  import Dynmap from "./Dynmap.svelte";
 
   const routes = {
     "/": Home,
     "/vote": Vote,
     "/discord": Discord,
     "/about": About,
-    "/resource-pack": ResourcePack,
-    "/dynmap": Dynmap
+    "/resource-pack": ResourcePack
   };
 </script>
 
