@@ -1,5 +1,5 @@
 <div class="embed-responsive embed-responsive-21by9 mb-4">
-  <iframe src="http://104.128.60.178:8128/#" title="Dynmap" />
+  <iframe src="http://104.128.60.178:8128" title="Dynmap" />
 </div>
 <div class="container text-light ">
   <div class="text-center mb-4">
