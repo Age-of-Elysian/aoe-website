@@ -3,7 +3,7 @@
 </div>
 <div class="container text-light ">
   <div class="text-center mb-4">
-    <h2>Our Dynmap</h2>
+    <h2>What is Dynmap?</h2>
   </div>
   <p class="text-justify">
     Dynmap is a plugin that creates a Google Maps-like map for your minecraft
