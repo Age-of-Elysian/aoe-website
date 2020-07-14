@@ -44,7 +44,7 @@
           <a href="/#/discord">Discord Server</a>
           which you can join.
         </li>
-        <li class="mt-1">Towny and Slimefun</li>
+        <li class="mt-1">Towny, Slimefun, Pets and Brewery</li>
         <li>
           Custom built dungeons with thoroughly designed bosses and monsters
         </li>
