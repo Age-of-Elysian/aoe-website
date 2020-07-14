@@ -1,6 +1,6 @@
-<div class="embed-responsive embed-responsive-21by9 mb-4">
+<!-- <div class="embed-responsive embed-responsive-21by9 mb-4">
   <iframe src="https://bit.ly/2OmAaWr" title="Dynmap" />
-</div>
+</div> -->
 
 <div class="container text-light ">
   <div class="text-center m-5">
