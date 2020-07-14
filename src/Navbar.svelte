@@ -43,6 +43,9 @@
         </a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="/#/dynmap">Dynmap</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="/#/resource-pack">Resource Pack</a>
       </li>
       <li class="nav-item">
