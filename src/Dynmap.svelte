@@ -1,16 +1,6 @@
-<!-- THIS FILE IS UNUSED, BUT HAS GOOD CODE IN IT. USE LATER WHEN POSSIBLE
- DYNMAP IFRAME PAGE CODE
- 
- 
- 
- 
- 
- 
- 
- 
- <div class="embed-responsive embed-responsive-21by9 mb-4">
-  <iframe src="https://bit.ly/2OmAaWr" title="Dynmap" />
-</div> 
+<div class="embed-responsive embed-responsive-21by9 mb-4">
+  <iframe src="https://ageofelysiantest.000webhostapp.com/" title="Dynmap" />
+</div>
 
 <div class="container text-light ">
   <div class="text-center m-5">
@@ -26,20 +16,3 @@
     rendering mode.
   </p>
 </div>
-
-<div class="text-center">
-  <a
-    class="btn btn-dark mx-auto"
-    role="button"
-    href="http://104.128.60.178:8128/"
-    alt="dynmap"
-    target="_blank">
-    Click here to open the Dynmap
-  </a>
-
-  <p class="m-3" style=" font-size: 11px;">
-    this is temporary, an integrated dynmap iframe will take some time to set up
-    due to it not supporting https locally
-  </p>
-</div>
--->

@@ -6,6 +6,7 @@
   import Footer from "./Footer.svelte";
   import Discord from "./Discord.svelte";
   import About from "./About.svelte";
+  import Dynmap from "./Dynmap.svelte";
   import ResourcePack from "./ResourcePack.svelte";
 
   const routes = {
@@ -13,7 +14,8 @@
     "/vote": Vote,
     "/discord": Discord,
     "/about": About,
-    "/resource-pack": ResourcePack
+    "/resource-pack": ResourcePack,
+    "/dynmap": Dynmap
   };
 </script>
 
