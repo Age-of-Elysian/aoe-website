@@ -1,5 +1,5 @@
 <div class="embed-responsive embed-responsive-21by9 mb-4">
-  <iframe src="https://ageofelysiantest.000webhostapp.com/r" title="Dynmap" />
+  <iframe src="" title="Dynmap" />
 </div>
 
 <div class="container text-light ">

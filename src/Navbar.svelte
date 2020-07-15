@@ -43,9 +43,7 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://ageofelysiantest.000webhostapp.com/">
-          Dynmap
-        </a>
+        <a class="nav-link" href="http://104.128.60.178:8128/">Dynmap</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/#/resource-pack">Resource Pack</a>
