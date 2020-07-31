@@ -1,8 +1,6 @@
 <script>
   export let name;
   export let rank;
-  export let imagepng;
-  export let imagewebp;
 </script>
 
 <style>
@@ -11,8 +9,8 @@
     padding: 2em;
     height: 12em;
     border-radius: 3px;
-    display: inline-block;
   }
+
   .contributor > picture > img {
     display: block;
     height: auto;
@@ -21,16 +19,22 @@
   }
 </style>
 
-<div class="container p-4">
-  <div class="contributor text-center">
-
+<div class="col p-4 w-100">
+  <div class="contributor text-center mx-auto">
     <picture class="mx-auto justify-content-center">
-      <source srcset={imagewebp} type="image/webp" />
-      <img src={imagepng} alt="{name}_{rank}" class="mx-auto" />
-      {name}
-      <br />
-      {rank}
+      <source
+        srcset={`/images/contributors/webp/${name.toLowerCase()}.webp`}
+        type="image/webp"
+        class="mx-auto" />
+      <img
+        src={`/images/contributors/png/${name.toLowerCase()}.png`}
+        alt="{name}_{rank}"
+        class="mx-auto" />
     </picture>
-
+    <div class="m-2">
+      <span>{name}</span>
+      <br />
+      <span class="badge bg-success">{rank}</span>
+    </div>
   </div>
 </div>

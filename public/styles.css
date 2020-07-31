@@ -26,10 +26,6 @@ a:visited:not(.nav-link) {
   background: #181818;
 }
 
-html {
-  box-sizing: border-box;
-}
-
 *,
 *:before,
 *:after {
