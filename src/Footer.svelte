@@ -1,5 +1,7 @@
 <script>
   import Clipboard from "svelte-clipboard";
+
+  console.log(Clipboard);
 </script>
 
 <style>

@@ -1,17 +1,21 @@
+<script>
+  let carouselHeight;
+</script>
+
 <style>
   .navbar {
     position: absolute;
     z-index: 10;
     max-width: 100%;
+    min-width: 100%;
   }
 
   .carousel img {
-    height: 75px;
     object-fit: cover;
   }
 </style>
 
-<nav class="navbar navbar-expand-lg navbar-dark">
+<nav class="navbar navbar-expand-lg navbar-dark px-2" bind:clientHeight={carouselHeight}>
   <a class="navbar-brand" href="/#/">
     <img src="/images/png/logo.png" alt="" height="49px" style="width: 49px" />
   </a>
@@ -65,6 +69,7 @@
     <div class="carousel-item active">
       <img
         class="d-block w-100"
+        style="height: {carouselHeight}px"
         src="/images/carousel/png/slide_1.png"
         alt=""
         draggable="false" />
@@ -74,6 +79,7 @@
         class="d-block w-100"
         src="/images/carousel/png/slide_2.png"
         alt=""
+        style="height: {carouselHeight}px"
         draggable="false" />
     </div>
   </div>
