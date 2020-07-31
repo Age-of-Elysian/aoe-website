@@ -15,7 +15,7 @@
   }
 </style>
 
-<nav class="navbar navbar-expand-lg navbar-dark px-2" bind:clientHeight={carouselHeight}>
+<nav class="navbar navbar-expand-lg navbar-dark px-2" style="z-index: 1000" bind:clientHeight={carouselHeight}>
   <a class="navbar-brand" href="/#/">
     <img src="/images/png/logo.png" alt="" height="49px" style="width: 49px" />
   </a>
