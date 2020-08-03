@@ -1,13 +1,14 @@
 <script>
   export let name;
   export let rank;
+  export let rankcolor;
 </script>
 
 <style>
   .contributor {
     background: rgba(30, 30, 30) !important;
     padding: 2em;
-    height: 12em;
+    height: 13.5em;
     border-radius: 3px;
   }
 
@@ -16,6 +17,35 @@
     height: auto;
     max-width: 100%;
     max-height: 100%;
+  }
+  .rankcolor {
+    opacity: 0.9;
+    padding: 2px;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 15px;
+    border-radius: 3px;
+  }
+  .rank-tecadmin {
+    background: #d4850f;
+  }
+  .rank-admin {
+    background: #801313;
+  }
+  .rank-dev {
+    background: #b51414;
+  }
+  .rank-hbuild {
+    background: #135b9e;
+  }
+  .rank-build {
+    background: #176ebf;
+  }
+  .rank-mod {
+    background: #0f920f;
+  }
+  .rankcolor:hover {
+    opacity: 1;
   }
 </style>
 
@@ -34,7 +64,7 @@
     <div class="m-2">
       <span>{name}</span>
       <br />
-      <span class="badge bg-success">{rank}</span>
+      <span class={rankcolor}>{rank}</span>
     </div>
   </div>
 </div>
