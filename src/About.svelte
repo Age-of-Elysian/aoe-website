@@ -102,12 +102,6 @@
 
   <div class="row justify-content-center">
     <Contributor
-      imagepng="/images/contributors/png/kins.png"
-      imagewebp="/images/contributors/webp/kins.webp"
-      name="Kinsplai"
-      rank="Builder"
-      rankcolor="rankcolor rank-build" />
-    <Contributor
       imagepng="/images/contributors/png/alph.png"
       imagewebp="/images/contributors/webp/alph.webp"
       name="Alphacca"
