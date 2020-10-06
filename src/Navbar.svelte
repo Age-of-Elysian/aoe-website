@@ -15,7 +15,11 @@
   }
 </style>
 
-<nav class="navbar navbar-expand-lg navbar-dark px-2" style="-webkit-transform: translate3d(0, 0, 1px); transform: translate3d(0, 0, 1px)" bind:clientHeight={carouselHeight}>
+<nav
+  class="navbar navbar-expand-lg navbar-dark px-2"
+  style="-webkit-transform: translate3d(0, 0, 1px); transform: translate3d(0, 0,
+  1px)"
+  bind:clientHeight={carouselHeight}>
   <a class="navbar-brand" href="/#/">
     <img src="/images/png/logo.png" alt="" height="49px" style="width: 49px" />
   </a>
@@ -47,7 +51,10 @@
         </a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="http://104.128.60.178:8128/" target="_blank">
+        <a
+          class="nav-link"
+          href="http://dynmap.ageofelysian.com/"
+          target="_blank">
           Dynmap
         </a>
       </li>
