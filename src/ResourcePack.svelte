@@ -55,5 +55,5 @@
     style="max-height: 300px"
     src="/images/resourcepack/resourcepack_example.png"
     alt="Resource pack example" />
-  <h6 class="text-center">Each ingot and dust has a distinct texture.</h6>
+  <h6 class="text-center mt-2">Each ingot and dust has a distinct texture.</h6>
 </div>
