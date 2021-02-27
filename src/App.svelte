@@ -7,6 +7,7 @@
   import Discord from "./Discord.svelte";
   import About from "./About.svelte";
   import Dynmap from "./Dynmap.svelte";
+  import Dungeons from "./Dungeons.svelte";
   import ResourcePack from "./ResourcePack.svelte";
 
   const routes = {
@@ -15,7 +16,8 @@
     "/discord": Discord,
     "/about": About,
     "/resource-pack": ResourcePack,
-    "/dynmap": Dynmap
+    "/dynmap": Dynmap,
+    "/Dungeons": Dungeons
   };
 </script>
 

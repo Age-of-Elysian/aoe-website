@@ -44,6 +44,12 @@
       name="AlexLander123"
       rank="Plugin Dev"
       rankcolor="rankcolor rank-dev" />
+    <Contributor
+      imagepng="/images/contributors/png/linox.png"
+      imagewebp="/images/contributors/webp/linox.webp"
+      name="Linox"
+      rank="Slimefun Dev"
+      rankcolor="rankcolor rank-dev" />
   </div>
 
   <div class="text-center">
@@ -89,9 +95,9 @@
       rank="Towny Mod"
       rankcolor="rankcolor rank-mod" />
     <Contributor
-      imagepng="/images/contributors/png/ajan.png"
-      imagewebp="/images/contributors/webp/ajan.webp"
-      name="Ajan_12"
+      imagepng="/images/contributors/png/linox.png"
+      imagewebp="/images/contributors/webp/linox.webp"
+      name="Linox"
       rank="Discord Mod"
       rankcolor="rankcolor rank-mod" />
   </div>

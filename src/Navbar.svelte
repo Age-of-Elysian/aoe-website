@@ -65,6 +65,9 @@
         <a class="nav-link" href="/#/discord">Discord</a>
       </li>
       <li class="nav-item">
+        <a class="nav-link" href="/#/dungeons">Dungeons</a>
+      </li>
+      <li class="nav-item">
         <a class="nav-link" href="/#/about">About</a>
       </li>
     </ul>
@@ -78,14 +81,46 @@
         class="d-block w-100"
         style="height: {carouselHeight}px"
         src="/images/carousel/png/slide_1.png"
-        alt=""
+        alt="this looks nice"
         draggable="false" />
     </div>
     <div class="carousel-item">
       <img
         class="d-block w-100"
         src="/images/carousel/png/slide_2.png"
-        alt=""
+        alt="this also does"
+        style="height: {carouselHeight}px"
+        draggable="false" />
+    </div>
+    <div class="carousel-item">
+      <img
+        class="d-block w-100"
+        src="/images/carousel/png/slide_3.png"
+        alt="you really shouldn't be reading this..."
+        style="height: {carouselHeight}px"
+        draggable="false" />
+    </div>
+    <div class="carousel-item">
+      <img
+        class="d-block w-100"
+        src="/images/carousel/png/slide_4.png"
+        alt="you really shouldn't be reading this..."
+        style="height: {carouselHeight}px"
+        draggable="false" />
+    </div>
+    <div class="carousel-item">
+      <img
+        class="d-block w-100"
+        src="/images/carousel/png/slide_5.png"
+        alt="you really shouldn't be reading this..."
+        style="height: {carouselHeight}px"
+        draggable="false" />
+    </div>
+    <div class="carousel-item">
+      <img
+        class="d-block w-100"
+        src="/images/carousel/png/slide_6.png"
+        alt="you really shouldn't be reading this..."
         style="height: {carouselHeight}px"
         draggable="false" />
     </div>
