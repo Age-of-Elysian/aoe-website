@@ -1,3 +1,12 @@
+<style>
+@font-face{
+  font-family: Quartz;
+  src: url('/fonts/Backshlash.ttf');
+}
+  h2 {
+    font-family: Quartz;
+  }
+</style>
 <div class="container text-light">
   <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-lg-6 mt-4">
