@@ -2,9 +2,19 @@
   import Contributor from "./Contributor.svelte";
 </script>
 
+<style>
+@font-face{
+  font-family: Quartz;
+  src: url('/fonts/Backshlash.ttf');
+}
+  h2 {
+    font-family: Quartz;
+  }
+</style>
+
 <div class="container text-light">
   <div class="text-center align-middle">
-    <h2 class="m-4">Department Heads</h2>
+    <h2 class="m-4 text-center font-weight-bold">Department Heads</h2>
   </div>
 
   <div class="row justify-content-center">
@@ -29,7 +39,7 @@
   </div>
 
   <div class="text-center align-middle">
-    <h3 class="m-4">Developers</h3>
+    <h2 class="m-4 text-center font-weight-bold">Developers</h2>
   </div>
   <div class="row justify-content-center">
     <Contributor
@@ -53,7 +63,7 @@
   </div>
 
   <div class="text-center">
-    <h2 class="m-4">Administrators</h2>
+    <h2 class="m-4 text-center font-weight-bold">Administrators</h2>
   </div>
 
   <div class="row justify-content-center">
@@ -84,7 +94,7 @@
   </div>
 
   <div class="text-center">
-    <h3 class="m-4">Moderators</h3>
+    <h2 class="m-4 text-center font-weight-bold">Moderators</h2>
   </div>
 
   <div class="row justify-content-center">
@@ -103,7 +113,7 @@
   </div>
 
   <div class="text-center">
-    <h3 class="m-4">Builders</h3>
+    <h2 class="m-4 text-center font-weight-bold">Builders</h2>
   </div>
 
   <div class="row justify-content-center">

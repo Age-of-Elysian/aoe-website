@@ -1,3 +1,12 @@
+<style>
+@font-face{
+  font-family: Quartz;
+  src: url('/fonts/Backshlash.ttf');
+}
+  h1 {
+    font-family: Quartz;
+  }
+</style>
 <div class="container text-light">
   <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-md-6 mt-5">
@@ -7,7 +16,7 @@
       </picture>
     </div>
     <div class="col-12 col-md-6 my-md-auto mt-">
-      <h1 class="h4 text-center mb-4">Welcome to Age of Elysian</h1>
+      <h1 class="h4 text-center mb-4 font-weight-bold">Welcome to Age of Elysian</h1>
       <p class="text-justify">
         Age of Elysian is a server that has been in business for more than half
         a decade, and we've amassed quite a community during that time. Most
@@ -37,7 +46,7 @@
 
   <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-md-6 mt-4">
-      <h1 class="h4 text-center mb-4">What we're offering</h1>
+      <h1 class="h4 text-center mb-4 font-weight-bold">What we're offering</h1>
       <ul class="text-justify ml-0 pl-0">
         <li>
           An amazingly entertaining and helpful community. We also have a
@@ -71,7 +80,7 @@
       </ul>
     </div>
     <div class="col-12 col-md-6 mt-4">
-      <h1 class="h4 text-center mb-4">Slimefun</h1>
+      <h1 class="h4 text-center mb-4 font-weight-bold">Slimefun</h1>
       <p class="text-justify">
         Slimefun is a plugin which aims to basically turn your Bukkit Server
         into a modpack like FeedTheBeast, IndustrialCraft2 or Tekkit without
@@ -103,7 +112,7 @@
 
   <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-lg-6 mt-5">
-      <h1 class="h4 text-center mb-4">Towny</h1>
+      <h1 class="h4 text-center mb-4 font-weight-bold">Towny</h1>
       <p class="text-justify">
         Towny is a plugin that introduces a way of creating towns with grid-like
         land protection and an intricate permission system. Each town has a

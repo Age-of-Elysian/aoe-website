@@ -1,7 +1,16 @@
+<style>
+@font-face{
+  font-family: Quartz;
+  src: url('/fonts/Backshlash.ttf');
+}
+  h2 {
+    font-family: Quartz;
+  }
+</style>
 <div class="container text-light">
   <div class="row w-100 ml-0 mr-0">
     <div class="col-12 col-lg-6 mt-4">
-      <h2 class="text-center">Our Discord</h2>
+      <h2 class="text-center font-weight-bold">Our Discord</h2>
       <p class="text-justify mt-4">
         We have a highly social, active and friendly community on our Discord
         server. Even if you're not really into Minecraft or are just taking a
@@ -20,7 +29,7 @@
       </div>
     </div>
     <div class="col-12 col-lg-6 mt-4">
-      <h2 class="text-center mb-4">How to link your Minecraft account</h2>
+      <h2 class="text-center mb-4 font-weight-bold">How to link your Minecraft account</h2>
       <ol class="pl-1 mt-2">
         <li>
           Join the server, register, then use the command "/discord" to receive

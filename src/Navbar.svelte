@@ -74,7 +74,7 @@
   </div>
 </nav>
 
-<div id="carousel" class="carousel slide" data-ride="carousel">
+<div id="carousel" class="carousel slide" data-ride="carousel" data-interval="9000">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img

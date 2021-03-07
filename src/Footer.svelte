@@ -34,5 +34,4 @@
       play.ageofelysian.com
     </a>
   </Clipboard>
-
 </footer>
