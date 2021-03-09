@@ -23,7 +23,7 @@
         on the server just by messaging in the #ingamechat channel.
       </p>
       <div class="text-center mt-0">
-        <a href="https://discord.gg/qcSVHM2" target="_blank">
+        <a href="https://discord.gg/7Vq49xbwh2" target="_blank">
           Click here to get an invite to the discord
         </a>
       </div>
