@@ -1,6 +1,4 @@
-/node_modules/
-/AOE_WEBSITE/
-/public/build/
-
 .DS_Store
-convert.js
+node_modules
+/.svelte-kit
+/package
