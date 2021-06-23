@@ -10,4 +10,4 @@
 	<title>Home</title>
 </svelte:head>
 
-<a href="/">foo</a>
+<a href="/about">foo</a>
