@@ -3,7 +3,6 @@
     max-height: 180px;
   }
 </style>
-#TODO: FIX IMAGES REVISE TEXT
 <div class="container text-center classtitle">
 <picture>
               <source
