@@ -45,14 +45,6 @@
       <li class="nav-item">
         <a
           class="nav-link"
-          href="https://www.ageofelysianmc.com/shop"
-          target="_blank">
-          Donate
-        </a>
-      </li>
-      <li class="nav-item">
-        <a
-          class="nav-link"
           href="http://dynmap.ageofelysian.com/"
           target="_blank">
           Dynmap
