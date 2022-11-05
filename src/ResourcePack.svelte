@@ -30,7 +30,7 @@
         <li>
           Download the resource pack by clicking this link:
           <a
-            href="https://cdn.discordapp.com/attachments/216854638660550656/781898676464517190/aoepack-a50-3.zip"
+            href="https://cdn.discordapp.com/attachments/216854638660550656/1038501684055375932/aoepack-a50-3.zip"
             target="_blank">
             <strong>Download</strong>
           </a>
